@@ -1,16 +1,16 @@
 {
   "packages": [
     {
-      "name": "R7FA4M1_PT",
+      "name": "arduino",
       "maintainer": "Arduino",
       "websiteUrl": "https://www.arduino.cc/",
-      "Url": "https://github.com/MythicalSheep/PT/blob/main/Custom%20Boards.zip",
+      "Url": "https://downloads.arduino.cc/packages/package_index.tar.bz2",
       "email": "packages@arduino.cc",
       "platforms": [
         {
-          "name": "Arduino R7FA4M1_PT Boards",
+          "name": "Arduino UNO R4 Boards",
           "architecture": "renesas_uno",
-          "version": "1.0.0",
+          "version": "1.4.1",
           "deprecated": false,
           "category": "Arduino",
           "url": "http://downloads.arduino.cc/cores/staging/ArduinoCore-renesas_uno-1.4.1.tar.bz2",
@@ -19,7 +19,10 @@
           "size": "10304192",
           "boards": [
             {
-              "name": "Arduino R7FA4M1_PT"
+              "name": "Arduino UNO R4 Minima"
+            },
+            {
+              "name": "Arduino UNO R4 WiFi"
             }
           ],
           "help": {
