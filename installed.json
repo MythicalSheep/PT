@@ -4,7 +4,7 @@
       "name": "R7FA4M1_PT",
       "maintainer": "Arduino",
       "websiteUrl": "https://www.arduino.cc/",
-      "Url": "https://downloads.arduino.cc/packages/package_index.tar.bz2",
+      "Url": "https://github.com/MythicalSheep/PT/blob/main/Custom%20Boards.zip",
       "email": "packages@arduino.cc",
       "platforms": [
         {
